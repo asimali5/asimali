@@ -1,12 +1,10 @@
 # Reading Files
 ar=[]
-b=False
-counter=0
 with open('bc.txt')as file_object:
  contents=file_object.read()
  for word in contents.split():
     if word in ar:
-        print(ar)
+       # print(ar)
         continue
     else:
      counter=0
