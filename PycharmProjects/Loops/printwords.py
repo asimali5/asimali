@@ -29,4 +29,4 @@ def print_top(n):
              f=f+1
              break
 
-print_top(4)
+print_top(2)

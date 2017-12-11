@@ -1,0 +1,565 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ba925ff3-2cd6-4db6-b358-5e94bd43cd96" name="Default" comment="Reading Files &amp; print Words">
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/window.state.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tupples.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/printwords.py" afterPath="$PROJECT_DIR$/printwords.py" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="check.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/check.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="27" lean-forward="false" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="printwords.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/printwords.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="481">
+              <caret line="31" column="12" lean-forward="false" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tupples.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/tupples.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ifelse.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ifelse.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="10" lean-forward="false" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReadingFile.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ReadingFile.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="9" lean-forward="false" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Loops.py" />
+        <option value="$PROJECT_DIR$/Class.py" />
+        <option value="$PROJECT_DIR$/PrimeNumbers.py" />
+        <option value="$PROJECT_DIR$/loops test.py" />
+        <option value="$PROJECT_DIR$/Input.py" />
+        <option value="E:/Docs/Bigdata/class assignments/class 2/assignment1.py" />
+        <option value="$PROJECT_DIR$/Assignment.py" />
+        <option value="E:/Docs/Bigdata/class assignments/class 2/assignment2.py" />
+        <option value="E:/Docs/Bigdata/class assignments/class 3/assignment3_list.py" />
+        <option value="E:/Docs/Bigdata/class assignments/class 3/assignment4_list.py" />
+        <option value="$PROJECT_DIR$/ReadingFile.py" />
+        <option value="$PROJECT_DIR$/wordcount.py" />
+        <option value="$PROJECT_DIR$/using_str.py" />
+        <option value="$PROJECT_DIR$/Dictionarylist.py" />
+        <option value="E:/Docs/Bigdata/class assignments/class 3/assignment5_all_wordcount.py" />
+        <option value="$PROJECT_DIR$/check.py" />
+        <option value="$PROJECT_DIR$/string slicing.py" />
+        <option value="$PROJECT_DIR$/strings.py" />
+        <option value="$PROJECT_DIR$/tupples.py" />
+        <option value="$PROJECT_DIR$/printwords.py" />
+        <option value="$PROJECT_DIR$/ifelse.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="53" />
+    <option name="y" value="31" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Loops" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Loops" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.ifelse">
+    <configuration name="check" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Loops" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/check.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="ifelse" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Loops" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ifelse.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="printwords" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Loops" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/printwords.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="strings" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Loops" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/strings.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="tupples" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Loops" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tupples.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.check" />
+      <item index="1" class="java.lang.String" itemvalue="Python.printwords" />
+      <item index="2" class="java.lang.String" itemvalue="Python.strings" />
+      <item index="3" class="java.lang.String" itemvalue="Python.tupples" />
+      <item index="4" class="java.lang.String" itemvalue="Python.ifelse" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.ifelse" />
+        <item index="1" class="java.lang.String" itemvalue="Python.check" />
+        <item index="2" class="java.lang.String" itemvalue="Python.printwords" />
+        <item index="3" class="java.lang.String" itemvalue="Python.tupples" />
+        <item index="4" class="java.lang.String" itemvalue="Python.strings" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba925ff3-2cd6-4db6-b358-5e94bd43cd96" name="Default" comment="" />
+      <created>1509087370338</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1509087370338</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Loops file">
+      <created>1509088647844</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1509088647844</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Prime Numbers &amp; Odd Numbers">
+      <created>1509353725308</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1509353725308</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Reading Files">
+      <created>1510656063733</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1510656063746</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Reading Files &amp; print Words">
+      <created>1510903161150</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1510903161150</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Ifelse">
+      <created>1512977003799</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1512977003799</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23645681" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33438486" sideWeight="0.5087848" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33438486" sideWeight="0.49121523" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39905363" sideWeight="0.49707174" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Loops file" />
+    <MESSAGE value="Prime Numbers &amp; Odd Numbers" />
+    <MESSAGE value="Reading Files" />
+    <MESSAGE value="Reading Files &amp; print Words" />
+    <MESSAGE value="Ifelse" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ifelse" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/printwords.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="18" lean-forward="false" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/check.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="1" lean-forward="false" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReadingFile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="9" lean-forward="false" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Docs/Bigdata/class assignments/class 3/assignment5_all_wordcount.py" />
+    <entry file="file://E:/Docs/Bigdata/class assignments/class 3/assignment6_all_mimic.py" />
+    <entry file="file://$PROJECT_DIR$/string slicing.py" />
+    <entry file="file://$PROJECT_DIR$/strings.py" />
+    <entry file="file://$PROJECT_DIR$/printwords.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="18" lean-forward="true" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/check.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/printwords.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReadingFile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="9" lean-forward="false" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Docs/Bigdata/class assignments/class 3/assignment5_all_wordcount.py" />
+    <entry file="file://E:/Docs/Bigdata/class assignments/class 3/assignment6_all_mimic.py" />
+    <entry file="file://$PROJECT_DIR$/check.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/printwords.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReadingFile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Docs/Bigdata/class assignments/class 3/assignment5_all_wordcount.py" />
+    <entry file="file://E:/Docs/Bigdata/class assignments/class 3/assignment6_all_mimic.py" />
+    <entry file="file://$PROJECT_DIR$/check.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="2" selection-start-column="4" selection-end-line="21" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/printwords.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="20" lean-forward="true" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReadingFile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="29" lean-forward="true" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Docs/Bigdata/class assignments/class 3/assignment5_all_wordcount.py" />
+    <entry file="file://E:/Docs/Bigdata/class assignments/class 3/assignment6_all_mimic.py" />
+    <entry file="file://$PROJECT_DIR$/Dictionarylist.py" />
+    <entry file="file://$PROJECT_DIR$/check.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="10" lean-forward="false" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ReadingFile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="18" lean-forward="true" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Docs/Bigdata/class assignments/class 3/assignment6_all_mimic.py" />
+    <entry file="file://E:/Docs/Bigdata/class assignments/class 3/assignment5_all_wordcount.py" />
+    <entry file="file://$PROJECT_DIR$/loops test.py" />
+    <entry file="file://$PROJECT_DIR$/Loops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Class.py" />
+    <entry file="file://$PROJECT_DIR$/loops test.py" />
+    <entry file="file://$PROJECT_DIR$/Input.py" />
+    <entry file="file://E:/Docs/Bigdata/class assignments/class 2/assignment2.py" />
+    <entry file="file://E:/Docs/Bigdata/class assignments/class 2/assignment1.py" />
+    <entry file="file://$PROJECT_DIR$/Assignment.py" />
+    <entry file="file://E:/Docs/Bigdata/class assignments/class 3/assignment3_list.py" />
+    <entry file="file://$PROJECT_DIR$/PrimeNumbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="16" column="2" lean-forward="false" selection-start-line="16" selection-start-column="1" selection-end-line="18" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Docs/Bigdata/class assignments/class 3/assignment4_list.py" />
+    <entry file="file://$PROJECT_DIR$/wordcount.py" />
+    <entry file="file://$PROJECT_DIR$/using_str.py" />
+    <entry file="file://$PROJECT_DIR$/Dictionarylist.py" />
+    <entry file="file://$PROJECT_DIR$/ReadingFile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="9" lean-forward="false" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/string slicing.py" />
+    <entry file="file://$PROJECT_DIR$/strings.py" />
+    <entry file="file://E:/Docs/Bigdata/class assignments/class 3/assignment6_all_mimic.py" />
+    <entry file="file://E:/Docs/Bigdata/class assignments/class 3/assignment5_all_wordcount.py" />
+    <entry file="file://$PROJECT_DIR$/tupples.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="12" lean-forward="false" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/check.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="27" lean-forward="false" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/printwords.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="481">
+          <caret line="31" column="12" lean-forward="false" selection-start-line="31" selection-start-column="12" selection-end-line="31" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ifelse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="10" lean-forward="false" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
